@@ -45,7 +45,7 @@ Each folder in this repository corresponds to an individual Tableau project and 
 
 I'm actively learning and building new projects in data visualization and analytics. Feel free to connect or collaborate:
 
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/prathmeshraut](https://www.linkedin.com/in/prathmesh-raut/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/prathmesh-raut/)
 - 📧 Email: *praut2312@gmail.com*
-- 🌐 [Tableau Public Profile]([https://public.tableau.com/app/profile/yourusername](https://public.tableau.com/app/profile/prathmesh.raut4150/vizzes)
+- 🌐 [Tableau Public Profile](https://public.tableau.com/app/profile/prathmesh.raut4150/vizzes)
 
